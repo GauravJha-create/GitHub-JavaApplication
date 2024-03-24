@@ -9,11 +9,11 @@ import javax.swing.*;
 public class ExistingUser {
 
     // database information
-    public static String JDBC_URL = "jdbc:mysql://localhost:3306/";
-    public static String user = "root";
-    public static String password = "jhagaurav7500";
-    public static String DBname = "PassX";
-    public static String tName = "LoginInfo";
+    public static String JDBC_URL = //your values;
+    public static String user = //your values;
+    public static String password = //your values;
+    public static String DBname = /your values;
+    public static String tName = //your values;
     public static String userID="", userpass="",username="";
 
     public static void main(String[] args) {
