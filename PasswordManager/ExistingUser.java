@@ -9,7 +9,7 @@ import javax.swing.*;
 public class ExistingUser {
 
     // database information
-    public static String JDBC_URL = //your values;
+    public static String JDBC_URL = //your value;
     public static String user = //your values;
     public static String password = //your values;
     public static String DBname = /your values;
