@@ -14,10 +14,10 @@ import com.mysql.cj.xdevapi.Statement;
 public class addPassword {
 
     // database information
-    public static String JDBC_URL = "jdbc:mysql://localhost:3306/";
-    public static String user = "root";
-    public static String password = "jhagaurav7500";
-    public static String DBname = "PassXUsers";
+    public static String JDBC_URL = //your value;
+    public static String user = //your value;
+    public static String password = //your values ;
+    public static String DBname = //your value;
 
     //obj creation
     public static PasswordManagerHome pHome=new PasswordManagerHome();

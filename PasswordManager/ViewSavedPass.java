@@ -13,10 +13,10 @@ import com.mysql.cj.xdevapi.Statement;
 
 public class ViewSavedPass {
     //database info
-    public static String JDBC_URL = "jdbc:mysql://localhost:3306/";
-    public static String user = "root";
-    public static String password = "jhagaurav7500";
-    public static String DBname = "PassXUsers";
+    public static String JDBC_URL = //your values;
+    public static String user = //your values;
+    public static String password = //your values;
+    public static String DBname = /your values;
     public static String username="", userpass="";
 
     public static ExistingUser eu=new ExistingUser();
